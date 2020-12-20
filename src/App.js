@@ -5,7 +5,7 @@ import Banner from './Banner'
 function App() {
   return (
     <div className="App">
-      <h1>StreamIt</h1>
+      {/* <h1>StreamIt</h1> */}
 
       <Banner/>
       
